@@ -2,6 +2,6 @@
 
 Simple react application with React, SWR, axios
 
-## Screendshot
+## Screenshot
 
 ![Screenshot](src/assets/images/ss.jpeg)
